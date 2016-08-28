@@ -32,8 +32,8 @@ You can get started developing .NET Core apps by following these step-by-step tu
 * Windows 8.1
 * Windows 10
 * Windows Server 2008 R2 SP1 (Full Server or Server Core)
-* Windows Server 2012 SP1 (Full Server or Server Core)
-* Windows Server 2012 R2 SP1 (Full Server or Server Core)
+* Windows Server 2012 (Full Server or Server Core)
+* Windows Server 2012 R2 (Full Server or Server Core)
 * Windows Server 2016 (Full Server, Server Core or Nano Server)
 
 ## Linux
